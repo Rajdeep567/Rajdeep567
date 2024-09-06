@@ -33,10 +33,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-
-  <a href="https://www.microsoft.com/en-in/microsoft-365/excel?msockid=2eba630ffe21607519b3734dff27619d" target="_blank" rel="noreferrer"> <img src= "https://cdn.freelogovectors.net/wp-content/uploads/2023/04/excel-2013-logo-freelogovectors.net_.png" alt="Excel" width="40" height="40"/> </a>
-
-  <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src= "https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" alt="Excel" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel?msockid=2eba630ffe21607519b3734dff27619d" target="_blank" rel="noreferrer"> <img src= "https://cdn.freelogovectors.net/wp-content/uploads/2023/04/excel-2013-logo-freelogovectors.net_.png" alt="Excel" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer"> <img src= "https://cdn.freelogovectors.net/wp-content/uploads/2023/11/power-bi-logo-freelogovectors.net_.png" alt="Excel" width="40" height="40"/> </a>
   
 </p>
 
